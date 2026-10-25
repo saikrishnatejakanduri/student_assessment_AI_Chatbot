@@ -1,0 +1,14 @@
+[
+  {"tag":"greeting","patterns":["hi","hello","hey"],"responses":["Hello! How can I help you today?"]},
+  {"tag":"goodbye","patterns":["bye","goodbye","see you"],"responses":["Goodbye! Keep learning."]},
+  {"tag":"thanks","patterns":["thanks","thank you","that's helpful"],"responses":["You're welcome!"]},
+  {"tag":"study_tips","patterns":["how do I study better","study tips","help me focus"],"responses":["Try short focused study sessions, active recall, and spaced repetition."]},
+  {"tag":"python_help","patterns":["help with Python","Python error","learn Python"],"responses":["Share your code or error message and I can help explain it."]},
+  {"tag":"ai_ml","patterns":["what is machine learning","explain AI","AI project ideas"],"responses":["I can explain AI and machine learning concepts step by step."]},
+  {"tag":"resume_help","patterns":["improve my resume","resume tips","write resume headline"],"responses":["Tailor your resume to the role and highlight measurable project outcomes."]},
+  {"tag":"interview_prep","patterns":["interview questions","prepare for interview","HR interview"],"responses":["Tell me the role and I can help you practise interview questions."]},
+  {"tag":"internships","patterns":["find internship","internship application","internship tips"],"responses":["Check eligibility and deadlines on the employer's official careers page."]},
+  {"tag":"career_guidance","patterns":["career options","which job suits me","career advice"],"responses":["Tell me your interests, skills, and preferences so we can compare options."]},
+  {"tag":"project_help","patterns":["help with project","final year project","project explanation"],"responses":["Share your project topic and current stage, and I can suggest next steps."]},
+  {"tag":"fallback","patterns":["I have a question","help me","I need assistance"],"responses":["Please tell me a little more about what you need help with."]}
+]
